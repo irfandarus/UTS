@@ -1,0 +1,18 @@
+<p class='judul'>Data Pemantauan Covid-19 wilayah DKI Jakarta</p>
+		<p class='judul'>Per 24 April 2020 | 17:01:23</p>
+		<p class='judul'>Rivaldo/1710</p><br>
+		<table class='table1'>
+			<tr>
+				<td>Positif</td>
+				<td>Dirawat</td>
+				<td>Sembuh</td>
+				<td>Meninggal</td>
+			</tr>
+			<tr>
+				<td>2902</td>
+				<td>1769</td>
+				<td>206</td>
+				<td>257</td>
+			</tr>
+		</table>
+		<br>
